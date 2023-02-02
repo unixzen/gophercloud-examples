@@ -1,0 +1,9 @@
+---
+
+IdentityEndpoint: "http://192.168.1.2:5000/v2.0"
+Username:         "admin"
+Password:         "admin"
+TenantID:         "b666cb33c2cc4444bc55548256bc13"
+DomainID:         "Default"
+
+
